@@ -44,7 +44,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Slack Channel
 
-[**PANDAlarmRED Slack Channel**](https://join.slack.com/share/zt-nnfmqcqd-8jG85H~ihpJY_NjOvg7u3w)
+[**PANDAlarmRED Slack Channel**](https://app.slack.com/client/T01PDPEN4PL/C01QUGLKE3X/details/info)
 
 ---
 ## Systemarchitektur
@@ -56,7 +56,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Lizenz
 
-Bitte hinterlegt eine Lizenz für euer Projekt [LICENSE.md](LICENSE.md)
+[LICENSE](https://github.com/ChallengeOneHealth/TEAM2/blob/main/LICENSE)
 
 ---
 ## Was fehlt eurem Projekt noch?
