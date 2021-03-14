@@ -53,12 +53,12 @@ Der Mensch dringt kontinuierlich in die wilde Natur ein und kommt dadurch zwangs
 
 #### Fall B:Tierpandemien. 
 
-Pandemien als solche treten nicht nur bei Menschen auf, auch Tiere können von Pandemien betroffen werden und eine hohen wirschaftlichen Schaden zur Folge haben.
+Pandemien als solche treten nicht nur bei Menschen auf, auch Tiere können von Pandemien betroffen werden, was oft einen hohen wirschaftlichen Schaden zur Folge hat.
 Ein aktuelles Beispiel ist hier das Herpes-Virus EHV-1, welches Pferde befällt. Erkrankte Tiere entwickeln ein hohes Fieber und können im weitern Krankeitsverlauf versterben. Bei einem internationalem Reitturnier dem CES Tour in Valencia steckten sich mehrer Pferde mit dem Virus an und brachten diesen am 05.März 2021 auch nach Deutschland (Quelle: [Deutschlandfunk](https://www.deutschlandfunk.de/aggressives-herpes-virus-reitsport-stellt-betrieb.890.de.html?dram:article_id=493622)).
-Zu späte Warnungen und Reaktioen des FEI beförderten den Ausbrauch des Virus. 
+Zu späte Warnungen und Reaktioen des FEI beförderten den Ausbruch des Virus. 
 Auch hier könnte unser  **PANDAlarmRed** Frühwarnsystem ansetzen und mit den oben beschriebenen Methoden frühzeitig Alarm schlagen.
 
-Mit Hilfe unseres Konzepts und Programms sind wir in der Lage den One Health Gedanken zu gestalten und zu verbessern. **PANDAlarmRed** hilft Pandemien frühzeitig zu erkennen und hilft parallel gebündelt neue Daten zu diesen Pandemien zu sammeln und zu bündeln. Anhand der Warnung können entsprechend Gegenmaßnahmen getätigt werden. Zusätzlich zu der Warnunghelfen die gesammelten Daten, auf die Wissenschaftlern und Pharmakonzernen zugreifen können, dabei rechtzeitig mit der Entwicklung eines entsprechenden Medikaments oder einer Impfung zu beginnen.
+Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung nahender Naturkatastrophen ausweiten. Da ein gesundes Ökosystem, Tierwohl und die Gesundheit des Menschen eng miteinander verknüpft sind, bitet **PANDAlarmRED** eine Möglichkeit den OneHealth Gedanken global umzusetzten. Wir sammeln Daten, analysieren diese und warnen frühzeitig vor akuten Gefahren, ob Natur, Tier oder Mensch **PANDAlarmRED: Be aware and prepare!** 
 
 ---
 ## Slack Channel
