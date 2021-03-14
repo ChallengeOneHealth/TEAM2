@@ -39,7 +39,11 @@ Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **
 
 **<p align="center"> PANDAlarmRed: Be aware and Prepare!</p>**
 
-PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
+Wir präsentieren hier mit **PANDAlarmRed** unsere Lösung, um zukünftige Pandemien schneller zu erkennen und hinsichtlich ihrer Gefahren einzuordnen.
+Anders als herkömmliche Frühwarnsysteme scannt unsere PANDA KI (Künstliche Intelligenz) nicht nur die bekannten Informations-Kanäle wie Printmedien, Publikationen, Behörden und andere Warnsysteme, sondern bezieht auch **soziale Medien**, wie Twitter und Facebook, und sogar **individuelle Daten** durch Lifestyle-APPs und Wearables, wie Fitbits, mit in die Analyse ein.
+Unsere Algorithmen zur Einstufung des Risikofaktors beruhen auf wissenschaftlich fundierten Grundlagen und passen sich regelmäßig den neuen Gegebenheiten an. Dadurch kann die PANDA KI neue Informationen bewerten und auf dem **PANDAmeter** die aktuelle Gefahr eines neuen Virus angeben. Wird auf unserem **PANDAmeter** ein Gefahrenschwellenwert überschritten, schlägt der **PANDAlarmRed** Alarm und informiert unsere Kunden zeitgleich. Unsere Kunden können auf PANDAlarmRed jederzeit auf unsere gesammelten Informationen zugreifen und hierdurch gezielt Entscheidungen treffen, um Menschenleben zu retten und die Pandemie einzuschränken.
+
+
 
 ---
 ## Slack Channel
