@@ -50,7 +50,7 @@ Die WHO wurde bereits am 31.Dezember 2019 über Fälle von Lungenentzündung in 
 Dies Entspricht **einer Reaktionszeit von 53 Tagen**, von der ersten dringlichen Warnung des WHO bis hin zu konkreten Maßnahmen in Deutschland. Hierdurch wird wertvolle Zeit verloren, um Maßnahmen zur Eindämmung zu treffen und somit die Ausmaße einer Pandemie zu minimieren.
 Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird rettet Menschenleben.
 
-- [1](https://github.com/ChallengeOneHealth/TEAM2)
+
 ---
 ## Lösung 
 
