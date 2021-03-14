@@ -47,13 +47,16 @@ Unsere Algorithmen zur Einstufung des Risikofaktors beruhen auf wissenschaftlich
 
 Warum ist unser **PANDAlarmRed** die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus und greift immer weiter in die Natur und den Lebensraum von Tieren ein. Dies führt zwangsläufig Problemen, im Folgendem beschreiben wir zwei Szenarien.
 
-#### Problem A: Zoonosen. 
+#### Fall A: Corona und Zoonosen. 
 
-Dadurch, dass der Mensch weiter in die wilde Natur eindringt, kommt dieser zwangsläufig mit wilden Tieren, wie Fledermäusen inKontakt. Dadurch können Viren, die ursprünglich nur die Fledermäuse befallen, auch auf den Menschen übergehen und neuartige Krankheiten auslösen. Solche Krankheiten, die von Tier auf Menschen und umgekehrt übergehen, werden Zoonosen genannt. Dies führt zu einer dauerhaften Bedrohung, die zu einer ersthaften Pandemie führen kann, wie wir es im Jahr 2019 an COVID-19, selbst erlebt haben. Diese Bedrohung wurde auch bereits deutlich in einer detaillierten Publikation von Bao und Kollegen (M. Bao et al., 2017) beschrieben. 
+Der Mensch dringt kontinuierlich in die wilde Natur ein und kommt dadurch zwangsläufig mit wilden Tieren in Kontakt. Im Beispeil der Corona Pandemie konnten Viren so von Fledermäusen auf den Menschen übergehen und eine neuartige Krankeheit auslösen: COVID-19. Solche Erreger, die von Tieren auf Menschen übergehen können und umgekehrt nennt man Zoonosen. Zoonosen sind eine ständige Bedrohung und höchstwahrscheinlich auch Auslöser zukünftiger Pandemien. Diese Bedrohung wurde auch bereits deutlich in einer detaillierten Publikation von Bao und Kollegen (M. Bao et al., 2017) beschrieben. Zoonosen zeigen deutlich das Krankheiten von Tiere auf Menschen übergehen können und es daher in unserem Interesse ist auch Pandemien im Tierreich zu beobachten, was uns zu Fall B führt.
 
-#### Problem B:Tierpandemien. 
+#### Fall B:Tierpandemien. 
 
-Eine Pandemie ist jedoch nicht nur ein Ereignis, welches ausschließlich beim Menschen auftritt. Auch Tiere können von einer Pandemie betroffen werden. Ein aktuelles Beispiel ist hier das Herpes-Virus EHV-1, welches am 05.03.2021 in Deutschland Fuß gefasst hat (Quelle: [Deutschlandfunk](https://www.deutschlandfunk.de/aggressives-herpes-virus-reitsport-stellt-betrieb.890.de.html?dram:article_id=493622)). Das EHV-1 befällt Pferde und sorgt dafür, dass diese hohes Fieber bekommen und im schlimmsten Fall versterben. Wie man aus diesen beiden Beispielen deutlich erkennen kann, ist eine Pandemiefrüherkennung, sowohl für den Menschen selbst, als auch für seine Nutztiere wichtig. Genau hier greift unser **PANDAlarmRed** Frühwarnsystem an. 
+Pandemien als solche treten nicht nur bei Menschen auf, auch Tiere können von Pandemien betroffen werden und eine hohen wirschaftlichen Schaden zur Folge haben.
+Ein aktuelles Beispiel ist hier das Herpes-Virus EHV-1, welches Pferde befällt. Erkrankte Tiere entwickeln ein hohes Fieber und können im weitern Krankeitsverlauf versterben. Bei einem internationalem Reitturnier dem CES Tour in Valencia steckten sich mehrer Pferde mit dem Virus an und brachten diesen am 05.März 2021 auch nach Deutschland (Quelle: [Deutschlandfunk](https://www.deutschlandfunk.de/aggressives-herpes-virus-reitsport-stellt-betrieb.890.de.html?dram:article_id=493622)).
+Zu späte Warnungen und Reaktioen des FEI beförderten den Ausbrauch des Virus. 
+Auch hier könnte unser  **PANDAlarmRed** Frühwarnsystem ansetzen und mit den oben beschriebenen Methoden frühzeitig Alarm schlagen.
 
 Mit Hilfe unseres Konzepts und Programms sind wir in der Lage den One Health Gedanken zu gestalten und zu verbessern. **PANDAlarmRed** hilft Pandemien frühzeitig zu erkennen und hilft parallel gebündelt neue Daten zu diesen Pandemien zu sammeln und zu bündeln. Anhand der Warnung können entsprechend Gegenmaßnahmen getätigt werden. Zusätzlich zu der Warnunghelfen die gesammelten Daten, auf die Wissenschaftlern und Pharmakonzernen zugreifen können, dabei rechtzeitig mit der Entwicklung eines entsprechenden Medikaments oder einer Impfung zu beginnen.
 
