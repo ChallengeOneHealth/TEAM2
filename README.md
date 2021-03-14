@@ -6,7 +6,7 @@
 ## Pitchvideo
 Klick to start!
 
-[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
+[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarmredVideoStart.png)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
 
 ---
 ## Teammitglieder
@@ -40,10 +40,6 @@ Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **
 **<p align="center"> PANDAlarmRed: Be aware and Prepare!</p>**
 
 PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
-
-Video\
-Klick to start!\
-[![Beispielvideo](https://github.com/ChallengeOneHealth/TEAM2/blob/main/vimeoVorschau.png)](https://vimeo.com/523394242)
 
 ---
 ## Slack Channel
