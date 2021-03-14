@@ -54,7 +54,7 @@ Dies Entspricht **einer Reaktionszeit von 53 Tagen**, von der ersten dringlichen
 Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. 
 
 
-<p align="center">Jeder Monat, jede Woche und jeder Tag, der früher gehandelt wird rettet Menschenleben.</p>
+<p align="center"> Jeder Monat, jede Woche und jeder Tag, der früher gehandelt wird rettet Menschenleben!</p>
 
 
 ---
