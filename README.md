@@ -22,6 +22,8 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 
 ---
 # PANDAlarmRed
+<p align="center"> <img src="https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png">
+</p>
 
 ---
 ## Pitchvideo
@@ -32,20 +34,24 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ---
 ## Teammitglieder
 
-* **Eure Namen** - *Ideengeber:in* - [project name](https://github.com/projectname)
-* **Eure Namen** - *Designer:in* - [project name](https://github.com/projectname)
+* **Maren Schubert** - *Ideengeberin* - [PANDAlarmRed](https://github.com/ChallengeOneHealth/TEAM2)
+* **Stephan Steinke** - *Ideengeber* - [PANDAlarmRed](https://github.com/ChallengeOneHealth/TEAM2)
+* **Maria Mensch**
+* **Julia Freund**
+* **Navid Lodhia**
+* **Jens Wienöbst**
 
 ---
 ## Problemstellung 
 
-Bitte beschreibe hier das Problem, welches ihr lösen wollt.
+Die Corona Pandemie wurde zu lange unterschätzt. Dadurch wurde wertvolle Zeit verloren, sowohl um Maßnahmen zur Eindämmung zu treffen als auch für Impfstoff- und Medikamentenentwicklung. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird, wird in zukünftigen Pandemien ganz konkret Menschenleben retten.
 
 ---
 ## Lösung 
 
-Welche Lösung habt ihr für das Problem entwickelt?
+PANDAlarmRed xxxSloganxxx
 
-Hinweis: orientiert euch für die Beschreibung eurer Lösung gerne am [Business Model Canvas](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Businessplan/Business-Model-Canvas/inhalt.html) (geplante Zielgruppe, konkretes Nutzenversprechen etc.) und erzählt kurz, ob und wie ihr den One Health - Gedanken aufgreift. Dies könnte beispielsweise anhand einer branchenübergreifenden Kooperation oder über einen Ideentransfer aus anderen Branchen erfolgen. Dies erleichtert der Jury die Bewertung eurer Idee.
+PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
 
 ---
 ## Slack Channel
