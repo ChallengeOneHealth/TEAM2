@@ -82,6 +82,7 @@ Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung na
 ## Was fehlt eurem Projekt noch?
 * Startkapital
 * Kontakte/Netzwerk
+* Data Analyst
 * Entwickler:in
 * Mentor:in
 * Projekt Manager:in
