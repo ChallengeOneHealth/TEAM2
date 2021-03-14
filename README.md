@@ -44,7 +44,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Slack Channel
 
-[**PANDAlarmRED Slack Channel**](https://coh2021.slack.com/archives/C01QUGLKE3X)
+[**PANDAlarmRED Slack Channel**](https://app.slack.com/client/T01PDPEN4PL/C01QUGLKE3X/details/info)
 
 ---
 ## Systemarchitektur
