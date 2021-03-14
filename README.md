@@ -49,6 +49,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Systemarchitektur
 
+![Systemarchitektur](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarm-system.png)
 
 ---
 ## Businessplan
