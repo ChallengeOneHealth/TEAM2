@@ -22,7 +22,7 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 
 ---
 # PANDAlarmRed
-
+![PANDAlarmRED-Logo](https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png)
 ---
 ## Pitchvideo
 Klick to start!
@@ -32,8 +32,12 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ---
 ## Teammitglieder
 
-* **Eure Namen** - *Ideengeber:in* - [project name](https://github.com/projectname)
-* **Eure Namen** - *Designer:in* - [project name](https://github.com/projectname)
+* **Maren Schubert** - *Ideengeberin* - [project name](https://github.com/projectname)
+* **Stephan Steinke** - *Ideengeber* - [project name](https://github.com/projectname)
+* **Maria Mensch**
+* **Julia Freund**
+* **Navid Lodhia**
+* **Jens Wienöbst**
 
 ---
 ## Problemstellung 
