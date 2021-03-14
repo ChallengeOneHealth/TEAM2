@@ -32,8 +32,8 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ---
 ## Teammitglieder
 
-* **Maren Schubert** - *Ideengeberin* - [project name](https://github.com/projectname)
-* **Stephan Steinke** - *Ideengeber* - [project name](https://github.com/projectname)
+* **Maren Schubert** - *Ideengeberin* - [project name](https://github.com/ChallengeOneHealth/TEAM2)
+* **Stephan Steinke** - *Ideengeber* - [project name](https://github.com/ChallengeOneHealth/TEAM2)
 * **Maria Mensch**
 * **Julia Freund**
 * **Navid Lodhia**
