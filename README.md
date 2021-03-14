@@ -21,7 +21,7 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 * Funktionalität + Stabilität + Problemlösungsbezug = Qualität der entwickelten Lösung
 
 ---
-# Projektname (Bitte ändern)
+# PANDAlarmRed
 
 ---
 ## Pitchvideo
