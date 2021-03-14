@@ -22,13 +22,13 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 
 ---
 # PANDAlarmRed
-<p align="center"> <img src="https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png">
-</p>
+
 
 ---
 ## Pitchvideo
 Klick to start!
-[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
+[![Was ist ein Hackathon](<p align="center"> <img src="https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png">
+</p>)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
