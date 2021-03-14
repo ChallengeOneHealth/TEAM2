@@ -50,7 +50,7 @@ Die WHO wurde bereits am 31.Dezember 2019 über Fälle von Lungenentzündung in 
 Dies Entspricht **einer Reaktionszeit von 53 Tagen**, von der ersten dringlichen Warnung des WHO bis hin zu konkreten Maßnahmen in Deutschland. Hierdurch wird wertvolle Zeit verloren, um Maßnahmen zur Eindämmung zu treffen und somit die Ausmaße einer Pandemie zu minimieren.
 Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird rettet Menschenleben.
 
-
+- [1](https://github.com/ChallengeOneHealth/TEAM2)
 ---
 ## Lösung 
 
@@ -61,7 +61,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Slack Channel
 
-Erstelle im coh2021.slack.com Workspace einen Channel für deine Idee nach dem Muster #3_team-PROJEKTNAME (ersetze PROJEKTNAME durch deinen Projektnamen). Du kannst deinen Projekt- und Channelnamen jederzeit ändern [**coh2021.slack.com**](https://join.slack.com/t/coh21/shared_invite/zt-n7x97n34-x5E3MAoL869yCBPUhoskrg)
+[**PANDAlaramRED Slack Channel**](https://join.slack.com/share/zt-nnfmqcqd-8jG85H~ihpJY_NjOvg7u3w)
 
 ---
 ## Lizenz
