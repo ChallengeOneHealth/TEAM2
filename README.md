@@ -74,6 +74,13 @@ Klick to start!\
 [**PANDAlarmRED Slack Channel**](https://join.slack.com/share/zt-nnfmqcqd-8jG85H~ihpJY_NjOvg7u3w)
 
 ---
+## Systemarchitektur
+
+
+---
+## Businessplan
+
+---
 ## Lizenz
 
 Bitte hinterlegt eine Lizenz für euer Projekt [LICENSE.md](LICENSE.md)
