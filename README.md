@@ -49,7 +49,7 @@ Warum ist unser **PANDAlarmRed** die Zukunft des One Health Gedanken? Durch die 
 
 #### Fall A: Corona und Zoonosen. 
 
-Der Mensch dringt kontinuierlich in die wilde Natur ein und kommt dadurch zwangsläufig mit wilden Tieren in Kontakt. Im Beispeil der Corona Pandemie konnten Viren so von Fledermäusen auf den Menschen übergehen und eine neuartige Krankeheit auslösen: COVID-19. Solche Erreger, die von Tieren auf Menschen übergehen können und umgekehrt nennt man Zoonosen. Zoonosen sind eine ständige Bedrohung und höchstwahrscheinlich auch Auslöser zukünftiger Pandemien. Diese Bedrohung wurde auch bereits deutlich in einer detaillierten Publikation von Bao und Kollegen (M. Bao et al., 2017) beschrieben. Zoonosen zeigen deutlich das Krankheiten von Tiere auf Menschen übergehen können und es daher in unserem Interesse ist auch Pandemien im Tierreich zu beobachten, was uns zu Fall B führt.
+Der Mensch dringt kontinuierlich in die wilde Natur ein und kommt dadurch zwangsläufig mit wilden Tieren in Kontakt. Im Beispeil der Corona Pandemie konnten Viren so von Fledermäusen auf den Menschen übergehen und eine neuartige Krankeheit auslösen: COVID-19. Solche Erreger, die von Tieren auf Menschen übergehen können und umgekehrt nennt man Zoonosen. Zoonosen sind eine ständige Bedrohung und höchstwahrscheinlich auch Auslöser zukünftiger Pandemien. Diese Bedrohung wurde auch bereits deutlich in einer detaillierten Publikation von Bao und Kollegen ([M. Bao et al., 2017](https://www.nature.com/articles/srep43699)) beschrieben. Zoonosen zeigen deutlich das Krankheiten von Tiere auf Menschen übergehen können und es daher in unserem Interesse ist auch Pandemien im Tierreich zu beobachten, was uns zu Fall B führt.
 
 #### Fall B:Tierpandemien. 
 
