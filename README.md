@@ -73,7 +73,9 @@ Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung na
 ---
 ## Businessplan
 
+
 ![Businessplan](https://github.com/ChallengeOneHealth/TEAM2/blob/main/BusinessCase.pdf)
+
 
 ---
 ## Lizenz
