@@ -6,7 +6,7 @@
 ## Pitchvideo
 Klick to start!
 
-[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarmredVideoStart.png)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
+[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarmredVideoStart.png)](https://www.jw78.de/PANDAlarmRed.mp4)
 
 ---
 ## Teammitglieder
