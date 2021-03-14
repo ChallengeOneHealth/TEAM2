@@ -1,35 +1,12 @@
-# Template Repository für die Einreichung von Ideen
-
-* Die Erstellung eines Repositorys ist verpflichtend für die Bewertung durch unsere Jury
-* Mit der README.md Datei des Repository präsentiert ihr eure Idee der gesamten Community und Sie ist der erste Kontakt mit potenziellen Unterstützer:innen
-* Wenn ihr noch nicht mit Markdown gearbeitet habt hilft euch dieser [Artikel](https://guides.github.com/features/mastering-markdown/) :bookmark_tabs: und das [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :octocat: 
-* Es gibt für die ersten 6 Bereiche der README.md Datei eine feste Strucktur (Projektname, Pitchvideo ca. 3 min lang, Teammitglieder, Problemstellung, Lösung, Slack Channel)
-* Im Anschluss an diese Rubriken solltet Ihr versuchen einen noch tieferen Einblick in euer Projekt zu geben.
-* Wichtig für die weitere Verwendbarkeit des Projekts ist die Lizensierung. Github bietet hier einige Open Source Lizenzen an, solltet ihr Fragen haben welche für euer Repository/Projekt das richtige ist dann stellt eure Fragen gern im Slack Channel #0_challenge-one-health-hackathon-2021.
-
----
-## Kriterien der Jury
-Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kriterien bewerten:
-
-**Primärkriterien**
-* Vision & Potenzial
-* Innovationshöhe: Technologie | Geschäftsmodell | Distribution
-* Wirtschaftliches Potenzial
-* Cross-Sektorale Vorbildlichkeit
-
-**Sekundärkriterien** 
-* Funktionalität + Stabilität + Problemlösungsbezug = Qualität der entwickelten Lösung
-
 ---
 # PANDAlarmRed
-<p align="center"> <img src="https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png">
-</p>
+
 
 ---
 ## Pitchvideo
 Klick to start!
-[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
-Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
+
+[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/PANDAlarmRed2.png)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
 
 ---
 ## Teammitglieder
@@ -54,22 +31,31 @@ Dies Entspricht **einer Reaktionszeit von 53 Tagen**, von der ersten dringlichen
 Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. 
 
 
-<p align="center"> Jeder Monat, jede Woche und jeder Tag, der früher gehandelt wird rettet Menschenleben!</p>
+**<p align="center"> Jeder Monat, jede Woche und jeder Tag, der früher gehandelt wird rettet Menschenleben!</p>**
 
 
 ---
 ## Lösung 
 
-PANDAlarmRed xxxSloganxxx
+**<p align="center"> PANDAlarmRed: Be aware and Prepare!</p>**
 
 PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
 
+Video\
+Klick to start!\
 [![Beispielvideo](https://github.com/ChallengeOneHealth/TEAM2/blob/main/vimeoVorschau.png)](https://vimeo.com/523394242)
 
 ---
 ## Slack Channel
 
 [**PANDAlarmRED Slack Channel**](https://join.slack.com/share/zt-nnfmqcqd-8jG85H~ihpJY_NjOvg7u3w)
+
+---
+## Systemarchitektur
+
+
+---
+## Businessplan
 
 ---
 ## Lizenz
