@@ -43,9 +43,10 @@ Wir präsentieren hier mit **PANDAlarmRed** unsere Lösung, um zukünftige Pande
 Anders als herkömmliche Frühwarnsysteme scannt unsere PANDA KI (Künstliche Intelligenz) nicht nur die bekannten Informations-Kanäle wie Printmedien, Publikationen, Behörden und andere Warnsysteme, sondern bezieht auch **soziale Medien**, wie Twitter und Facebook, und sogar **individuelle Daten** durch Lifestyle-APPs und Wearables, wie Fitbits, mit in die Analyse ein.
 Unsere Algorithmen zur Einstufung des Risikofaktors beruhen auf wissenschaftlich fundierten Grundlagen und passen sich regelmäßig den neuen Gegebenheiten an. Dadurch kann die PANDA KI neue Informationen bewerten und auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus angeben. Wird auf unserem PANDAmeter ein Gefahrenschwellenwert überschritten, schlägt der **PANDAlarmRed** Alarm und informiert unsere Kunden zeitgleich. Unsere Kunden können auf **PANDAlarmRed** jederzeit auf unsere gesammelten Informationen zugreifen und hierdurch gezielt Entscheidungen treffen, um Menschenleben zu retten und die Pandemie einzuschränken.
 
+
 ### One Health
 
-Warum ist unser **PANDAlarmRed** die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus. Dies führt zwangsläufig zu zwei wesentlichen Problemstellungen, die wir im Rahmen des One Health Gedankens angegangen sind.
+Warum ist unser PANDAlarmRed die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus. Dies führt zwangsläufig zu zwei wesentlichen Problemstellungen, die wir im Rahmen des One Health Gedankens angegangen sind.
 
 #### Problem A: Zoonosen. 
 
