@@ -56,7 +56,7 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 ---
 ## Lizenz
 
-Bitte hinterlegt eine Lizenz für euer Projekt [LICENSE.md](LICENSE.md)
+[LICENSE](https://github.com/ChallengeOneHealth/TEAM2/blob/main/LICENSE)
 
 ---
 ## Was fehlt eurem Projekt noch?
