@@ -6,7 +6,7 @@
 ## Pitchvideo
 Klick to start!
 
-[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarmredVideoStart.png)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
+[![Was ist ein Hackathon](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarmredVideoStart.png)](https://www.youtube.com/watch?v=gOIc-IFxjJM)
 
 ---
 ## Teammitglieder
@@ -39,7 +39,26 @@ Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **
 
 **<p align="center"> PANDAlarmRed: Be aware and Prepare!</p>**
 
-PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
+Wir präsentieren hier mit **PANDAlarmRed** unsere Lösung, um zukünftige Pandemien schneller zu erkennen und hinsichtlich ihrer Gefahren einzuordnen.
+Anders als herkömmliche Frühwarnsysteme scannt unsere PANDA KI (Künstliche Intelligenz) nicht nur die bekannten Informations-Kanäle wie Printmedien, Publikationen, Behörden und andere Warnsysteme, sondern bezieht auch **soziale Medien**, wie Twitter und Facebook, und sogar **individuelle Daten** durch Lifestyle-APPs und Wearables, wie Fitbits, mit in die Analyse ein.
+Unsere Algorithmen zur Einstufung des Risikofaktors beruhen auf wissenschaftlich fundierten Grundlagen und passen sich regelmäßig den neuen Gegebenheiten an. Dadurch kann die PANDA KI neue Informationen bewerten und auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus angeben. Wird auf unserem PANDAmeter ein Gefahrenschwellenwert überschritten, schlägt der **PANDAlarmRed** Alarm und informiert unsere Kunden zeitgleich. Unsere Kunden können auf **PANDAlarmRed** jederzeit auf unsere gesammelten Informationen zugreifen und hierdurch gezielt Entscheidungen treffen, um Menschenleben zu retten und die Pandemie einzuschränken.
+
+### One Health
+
+Warum ist unser **PANDAlarmRed** die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus und greift immer weiter in die Natur und den Lebensraum von Tieren ein. Dies führt zwangsläufig Problemen, im Folgendem beschreiben wir zwei Szenarien.
+
+#### Fall A: Corona und Zoonosen. 
+
+Der Mensch dringt kontinuierlich in die wilde Natur ein und kommt dadurch zwangsläufig mit wilden Tieren in Kontakt. Im Beispeil der Corona Pandemie konnten Viren so von Fledermäusen auf den Menschen übergehen und eine neuartige Krankeheit auslösen: COVID-19. Solche Erreger, die von Tieren auf Menschen übergehen können und umgekehrt nennt man Zoonosen. Zoonosen sind eine ständige Bedrohung und höchstwahrscheinlich auch Auslöser zukünftiger Pandemien. Diese Bedrohung wurde auch bereits deutlich in einer detaillierten Publikation von Bao und Kollegen beschrieben([M. Bao et al., 2017](https://www.nature.com/articles/srep43699)). Zoonosen zeigen deutlich das Krankheiten von Tiere auf Menschen übergehen können und es daher in unserem Interesse ist auch Pandemien im Tierreich zu beobachten, was uns zu Fall B führt.
+
+#### Fall B:Tierpandemien. 
+
+Pandemien als solche treten nicht nur bei Menschen auf, auch Tiere können von Pandemien betroffen werden, was oft einen hohen wirschaftlichen Schaden zur Folge hat.
+Ein aktuelles Beispiel ist hier das Herpes-Virus EHV-1, welches Pferde befällt. Erkrankte Tiere entwickeln ein hohes Fieber und können im weitern Krankeitsverlauf versterben. Bei einem internationalem Reitturnier dem CES Tour in Valencia steckten sich mehrer Pferde mit dem Virus an und brachten diesen am 05.März 2021 auch nach Deutschland (Quelle: [Deutschlandfunk](https://www.deutschlandfunk.de/aggressives-herpes-virus-reitsport-stellt-betrieb.890.de.html?dram:article_id=493622)).
+Zu späte Warnungen und Reaktioen des FEI beförderten den Ausbruch des Virus. 
+Auch hier könnte unser  **PANDAlarmRed** Frühwarnsystem ansetzen und mit den oben beschriebenen Methoden frühzeitig Alarm schlagen.
+
+Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung nahender Naturkatastrophen ausweiten. Da ein gesundes Ökosystem, Tierwohl und die Gesundheit des Menschen eng miteinander verknüpft sind, bitet **PANDAlarmRED** eine Möglichkeit den OneHealth Gedanken global umzusetzten. Wir sammeln Daten, analysieren diese und warnen frühzeitig vor akuten Gefahren, ob Natur, Tier oder Mensch **PANDAlarmRED: Be aware and prepare!** 
 
 ---
 ## Slack Channel
@@ -61,7 +80,9 @@ PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftret
 
 ---
 ## Was fehlt eurem Projekt noch?
-* Designer:in
+* Startkapital
+* Kontakte/Netzwerk
+* Data Analyst
 * Entwickler:in
 * Mentor:in
 * Projekt Manager:in
