@@ -25,7 +25,7 @@ Klick to start!
 <p align="center">"Die nächste Pandemie kommt bestimmt!"
 
 Anhand der aktuellen Corona Pandemie zeigt sich deutlich das Problem bisheriger Warnsysteme, Gefahrwarnungen werden zu lange unterschätzt und ignoriert.
-Die WHO wurde bereits am 31.Dezember 2019 über Fälle von Lungenentzündung in der chinesischen Stadt Wuhan informiert und erklärte am 30. Januar 2020 den Ausbruch des neuartigen Coronaviruses zu einer gesundheitlichen Notlage von internationaler Tragweite. Doch erst am 11. März 2020 erklärte der WHO-Generaldirektor den Ausbruch des Coronaviruses offiziell zur Pandemie. In diesem Zeitraum 30. Januar bis 11. März, in **42 Tagen**, entwickelten sich die Fallzahlen von 18 Ländern außerhalb Chinas mit 98 Fällen und 0 Todesfällen zu 114 Ländern mit 118.000 Fällen und 4291 Todesfällen (Quelle: [WHO Regionalbüro für Europa](https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19/novel-coronavirus-2019-ncov)). Nach dem 11. März vergingen noch weitere **11 Tage**, bis in Deutschland am 22. März 2020 der erste Corona-Lockdown in Kraft trat.
+Die WHO wurde bereits am 31. Dezember 2019 über Fälle von Lungenentzündung in der chinesischen Stadt Wuhan informiert und erklärte am 30. Januar 2020 den Ausbruch des neuartigen Coronaviruses zu einer gesundheitlichen Notlage von internationaler Tragweite. Doch erst am 11. März 2020 erklärte der WHO-Generaldirektor den Ausbruch des Coronaviruses offiziell zur Pandemie. In diesem Zeitraum 30. Januar bis 11. März, in **42 Tagen**, entwickelten sich die Fallzahlen von 18 Ländern außerhalb Chinas mit 98 Fällen und 0 Todesfällen zu 114 Ländern mit 118.000 Fällen und 4291 Todesfällen (Quelle: [WHO Regionalbüro für Europa](https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19/novel-coronavirus-2019-ncov)). Nach dem 11. März vergingen noch weitere **11 Tage**, bis in Deutschland am 22. März 2020 der erste Corona-Lockdown in Kraft trat.
 
 Dies entspricht **einer Reaktionszeit von 53 Tagen**, von der ersten dringlichen Warnung des WHO bis hin zu konkreten Maßnahmen in Deutschland. Hierdurch wird wertvolle Zeit verloren, um Maßnahmen zur Eindämmung zu treffen und somit die Ausmaße einer Pandemie zu minimieren.
 Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. 
@@ -74,7 +74,7 @@ Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung na
 ## Businessplan
 
 
-https://github.com/ChallengeOneHealth/TEAM2/blob/main/BusinessCase.pdf
+[Businessplan]https://github.com/ChallengeOneHealth/TEAM2/blob/main/BusinessCase.pdf
 
 
 ---
