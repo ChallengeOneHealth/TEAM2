@@ -36,15 +36,18 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 
 * **Maren Schubert** - *Ideengeberin* - [PANDAlarmRed](https://github.com/ChallengeOneHealth/TEAM2)
 * **Stephan Steinke** - *Ideengeber* - [PANDAlarmRed](https://github.com/ChallengeOneHealth/TEAM2)
-* **Maria Mensch**
 * **Julia Freund**
 * **Navid Lodhia**
+* **Maria Mensch**
 * **Jens Wienöbst**
 
 ---
 ## Problemstellung 
 
-Die Corona Pandemie wurde zu lange unterschätzt. Dadurch wurde wertvolle Zeit verloren, sowohl um Maßnahmen zur Eindämmung zu treffen als auch für Impfstoff- und Medikamentenentwicklung. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird, wird in zukünftigen Pandemien ganz konkret Menschenleben retten.
+Anhand der aktuellen Corona Pandemie zeigt sich deutlich das Problem bisheriger Warnsysteme, Gefahrwarnungen werden zu lange unterschätzt und ignoriert. Die WHO wurde bereits am 31.Dezember 2019 über Fälle von Lungenentzündung in der chinesischen Stadt Wuhan informiert und erklärte am 30.Januar 2020 den Ausbruch des neuartigen Coronaviruses zu einer gesundheitlichen Notlage von internationaler Tragweite. Doch erst am 11. März 2020 erklärte der WHO-Generaldirektor den Ausbruch des Coronaviruses offiziell zur Pandemie.
+
+Hierdurch wird wertvolle Zeit verloren, um Maßnahmen zur Eindämmung zu treffen und somit die Ausmaße einer Pandemie zu minimieren.
+Ein weiterer wichtiger Faktor zur erfolgreichen Bekämpfung von Pandemien ist **die Impfstoff- und Medikamentenentwicklung**, welche am Ende den einzigen wirksamen Schutz der Bevölkerung vor Ansteckung garantieren. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird rettet Menschenleben.
 
 ---
 ## Lösung 
