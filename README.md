@@ -45,7 +45,7 @@ Unsere Algorithmen zur Einstufung des Risikofaktors beruhen auf wissenschaftlich
 
 ### One Health
 
-Warum ist unser PANDAlarmRed die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus. Dies führt zwangsläufig zu zwei wesentlichen Problemstellungen, die wir im Rahmen des One Health Gedankens angegangen sind.
+Warum ist unser **PANDAlarmRed** die Zukunft des One Health Gedanken? Durch die steigende Population, breitet sich der Mensch in seinem Lebensraum immer weiter aus. Dies führt zwangsläufig zu zwei wesentlichen Problemstellungen, die wir im Rahmen des One Health Gedankens angegangen sind.
 
 #### Problem A: Zoonosen. 
 
