@@ -64,6 +64,8 @@ PANDAlarmRed xxxSloganxxx
 
 PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
 
+Video
+Klick to start!
 [![Beispielvideo](https://github.com/ChallengeOneHealth/TEAM2/blob/main/vimeoVorschau.png)](https://vimeo.com/523394242)
 
 ---
