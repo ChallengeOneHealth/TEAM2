@@ -42,14 +42,14 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ---
 ## Problemstellung 
 
-Bitte beschreibe hier das Problem, welches ihr lösen wollt.
+Die Corona Pandemie wurde zu lange unterschätzt. Dadurch wurde wertvolle Zeit verloren, sowohl um Maßnahmen zur Eindämmung zu treffen als auch für Impfstoff- und Medikamentenentwicklung. Jeder Monat, jede Woche und jeder Tag, der hier früher gehandelt wird, wird in zukünftigen Pandemien ganz konkret Menschenleben retten.
 
 ---
 ## Lösung 
 
-Welche Lösung habt ihr für das Problem entwickelt?
+PANDAlarmRed xxxSloganxxx
 
-Hinweis: orientiert euch für die Beschreibung eurer Lösung gerne am [Business Model Canvas](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Businessplan/Business-Model-Canvas/inhalt.html) (geplante Zielgruppe, konkretes Nutzenversprechen etc.) und erzählt kurz, ob und wie ihr den One Health - Gedanken aufgreift. Dies könnte beispielsweise anhand einer branchenübergreifenden Kooperation oder über einen Ideentransfer aus anderen Branchen erfolgen. Dies erleichtert der Jury die Bewertung eurer Idee.
+PANDAlarmRed ist ein einzigartiges Frühwarnsystem, welches weltweit neu auftretende Viren nicht nur erkennt sondern hinsichtlich ihrer Pandemiegefahr rankt. Hierzu bezieht die PANDA KI aus sozialen Daten und Printmedien benötigte Informationen, die mithilfe wissenschaftlicher Publikationen und Nachrichten verrifiziert werden. Durch Algorithmen, die auf wissenschaftlicher Basis beruhen und immer wieder überprüft und angepasst werden, gewichtet und bewertet die PANDA KI auf dem PANDAmeter die aktuelle Gefahr eines neuen Virus. Die Nutzer werden von PANDAlarmRed ab einem definierten Schwellenwert benachrichtigt. Sie können dann auf die gesammelten Informationen zugreifen und Entscheidungen gezielt treffen, wodurch keine Pandemie mehr unterschätzt wird.
 
 ---
 ## Slack Channel
