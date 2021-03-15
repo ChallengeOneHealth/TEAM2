@@ -71,7 +71,7 @@ Letztendlich ließe sich unser Konzept auch auf die Überwachung und Wahrnung na
 ![Systemarchitektur](https://github.com/ChallengeOneHealth/TEAM2/blob/main/pandalarm-system.png)
 
 ---
-## Businessplan
+## Businesscase
 
 
 https://github.com/ChallengeOneHealth/TEAM2/blob/main/BusinessCase.pdf
